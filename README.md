@@ -4,13 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simple Website</title>
+    <title>NutriNest</title>
     <link rel="stylesheet" href="newstyle.css">
 </head>
 <body>
     
     <div class="index index-container">
-        <h1 class="index-class">Welcome to Simple Website</h1>
+        <h1 class="index-class">Welcome to NutriNest</h1>
         <button onclick="toggle_login()" class="index-button">Login</button>
         <button onclick="toggle_signup()" class="index-button">Sign up</button>
     </div>
